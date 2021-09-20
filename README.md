@@ -21,3 +21,7 @@ My own repo of awesome articles, books &amp; other resources. I try to support s
 
 ## Blogs / Personal Sites
 - [Sean Wang @ https://www.swyx.io/](https://www.swyx.io/)
+
+## Misc
+
+- [Savage65 1 Hour Keyboard Typing Sounds ASMR (No talking, No music, No mid-roll ads) [YouTube]](https://www.youtube.com/watch?v=qWiMYQcuWrw)
