@@ -18,3 +18,6 @@ My own repo of awesome articles, books &amp; other resources. I try to support s
 
 - [qutebrowser: keyboard-focused browser with a minimal GUI [github]](https://github.com/qutebrowser/qutebrowser)
 - [llamalife: timeboxing task management tool](https://llamalife.co/)
+
+## Blogs / Personal Sites
+- [Sean Wang @ https://www.swyx.io/](https://www.swyx.io/)
