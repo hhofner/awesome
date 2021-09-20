@@ -8,3 +8,7 @@ My own repo of awesome articles, books &amp; other resources.
 ## JavaScript
 
 - [JavaScript, the first 20 years](https://zenodo.org/record/3707008#.YUkCuaBUtpQ)
+
+### Frameworks & Tools
+
+- [Redwood: bringing fullstack to the jamstack [github]](https://github.com/redwoodjs/redwood)
