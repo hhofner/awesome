@@ -17,3 +17,4 @@ My own repo of awesome articles, books &amp; other resources.
 ## Applications
 
 - [qutebrowser: keyboard-focused browser with a minimal GUI [github]](https://github.com/qutebrowser/qutebrowser)
+- [llamalife: timeboxing task management tool](https://llamalife.co/)
