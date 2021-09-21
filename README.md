@@ -14,6 +14,10 @@ My own repo of awesome articles, books &amp; other resources. I try to support s
 
 - [Redwood: bringing fullstack to the jamstack [github]](https://github.com/redwoodjs/redwood)
 
+## HTML/CSS
+
+- [Grid by example](https://gridbyexample.com/examples/)
+
 ## Applications
 
 - [qutebrowser: keyboard-focused browser with a minimal GUI [github]](https://github.com/qutebrowser/qutebrowser)
