@@ -29,3 +29,4 @@ My own repo of awesome articles, books &amp; other resources. I try to support s
 ## Misc
 
 - [Savage65 1 Hour Keyboard Typing Sounds ASMR (No talking, No music, No mid-roll ads) [YouTube]](https://www.youtube.com/watch?v=qWiMYQcuWrw)
+- [Terminal Sexy: Create XResources color scheme files](https://terminal.sexy/)
