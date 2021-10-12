@@ -17,6 +17,7 @@ My own repo of awesome articles, books &amp; other resources. I try to support s
 ## HTML/CSS
 
 - [Grid by example](https://gridbyexample.com/examples/)
+- [Semantic HTML cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
 
 ## Applications
 
