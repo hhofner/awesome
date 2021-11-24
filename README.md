@@ -1,5 +1,5 @@
 # awesome
-My own repo of awesome articles, books &amp; other resources. I try to support solo developers & open source.
+My own repo of awesome articles, books &amp; other resources.
 
 ## Python
 
