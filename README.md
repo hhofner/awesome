@@ -9,6 +9,7 @@ My own repo of awesome articles, books &amp; other resources.
 ## JavaScript
 
 - [JavaScript, the first 20 years](https://zenodo.org/record/3707008#.YUkCuaBUtpQ)
+- [Library for Generating Flowfields](https://github.com/romellogoodman/flow-field.js#usage)
 
 ### Frameworks & Tools
 
@@ -26,6 +27,8 @@ My own repo of awesome articles, books &amp; other resources.
 
 ## Blogs / Personal Sites
 - [Sean Wang @ https://www.swyx.io/](https://www.swyx.io/)
+- [Varun Vachhar](https://varun.ca/)
+- [Tyler Hobbs](https://tylerxhobbs.com/)
 
 ## Misc
 
